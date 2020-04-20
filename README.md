@@ -1,2 +1,1 @@
-# waytoGo
-This repo is all about Go learning and code exercises
+[All of my **Go** code is now move to GitLab.com ](https://gitlab.com/tnwebdev/waytogo)
